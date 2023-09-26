@@ -5,6 +5,7 @@ I am Jacob from the Philippines! I recently graduated as an Information Technolo
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cisjacob)](https://github.com/anuraghazra/github-readme-stats)
 
 🌿 Right now I am currently learning:
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -12,6 +13,7 @@ I am Jacob from the Philippines! I recently graduated as an Information Technolo
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 🧑🏻‍💻 I have experience using:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
