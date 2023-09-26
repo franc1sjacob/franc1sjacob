@@ -1,6 +1,6 @@
 ### Hi there! 👋🏻
 
-I am Jacob from the Philippines! I recently graduated as an Information Technology specializing in Web and Mobile Development student from University of Santo Tomas. My passion lies in development, right now I am focusing on developing my skills in front-end and back-end technologies. I also started as a Junior Full Stack Developer just recently after I graduated. Outside of work I love to do physical activies such as going to gym and playing basketball.
+I am Jacob from the Philippines! I recently graduated as an 👨🏻‍🎓 Information Technology specializing in Web and Mobile Development student from University of Santo Tomas. My passion lies in 🌐 web development, right now I am focusing on developing my skills in front-end and back-end technologies. I also started as a 👨🏻‍💻 Junior Full Stack Developer just recently after I graduated. Outside of work I love to do physical activies to have fun and unwind! Such as going to gym and playing basketball. ⛹🏻🏋🏻‍♂️
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cisjacob)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,10 +18,14 @@ I am Jacob from the Philippines! I recently graduated as an Information Technolo
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
+
 
