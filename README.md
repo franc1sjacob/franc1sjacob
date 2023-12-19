@@ -3,8 +3,8 @@
 I am Jacob from the Philippines! I recently graduated studying 👨🏻‍🎓 BS in Information Technology specializing in Web and Mobile Development student from University of Santo Tomas. My passion lies in 🌐 web development, right now I am focusing on developing my skills in front-end and back-end technologies. I also started as a 👨🏻‍💻 Junior Full Stack Developer just recently after I graduated. Outside of work I love to do physical activies such as going to ⛹🏻🏋� gym and playing basketball to have fun and unwind! �‍♂️
 
 <p align="center">
-  <img src="https://github-readme-stats-jacob.vercel.app/api?username=cisjacob&show_icons=true&theme=transparent&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=cisjacob&theme=transparent&exclude_days=Sun%2CSat&hide_current_streak=true" />
+  <img height=200 src="https://github-readme-stats-jacob.vercel.app/api?username=cisjacob&show_icons=true&theme=transparent&count_private=true" />
+  <img height=200 src="https://streak-stats.demolab.com?user=cisjacob&theme=transparent&exclude_days=Sun%2CSat&hide_current_streak=true" />
 </p>
 
 🌿 Right now I am currently learning:
