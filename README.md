@@ -4,7 +4,7 @@ I am Jacob from the Philippines! I recently graduated studying 👨🏻‍🎓 B
 
 <p align="center">
   <img height=200 src="https://github-readme-stats-jacob.vercel.app/api?username=cisjacob&show_icons=true&theme=transparent&count_private=true" />
-  <img height=200 src="https://streak-stats.demolab.com?user=cisjacob&theme=transparent&exclude_days=Sun%2CSat&hide_current_streak=true" />
+  <img height=200 src="https://streak-stats.demolab.com?user=cisjacob&theme=transparent&exclude_days=Sun%2CSat&card_width=325&hide_current_streak=true" />
 </p>
 
 🌿 Right now I am currently learning:
