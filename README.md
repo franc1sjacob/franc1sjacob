@@ -5,7 +5,6 @@ I am Jacob from the Philippines! I recently graduated studying 👨🏻‍🎓 B
 ![Anurag's GitHub stats](https://github-readme-stats-jacob.vercel.app/api?username=cisjacob&show_icons=true&theme=transparent&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cisjacob&theme=transparent&exclude_days=Sun%2CSat&hide_current_streak=true)](https://git.io/streak-stats)
-Copy To Clipboard
 
 🌿 Right now I am currently learning:
 
