@@ -30,7 +30,7 @@ I am Jacob from the Philippines! I recently graduated studying 👨🏻‍🎓 B
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-![snake gif](https://github.com/franc1sjacob/cisjacob/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/franc1sjacob/franc1sjacob/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
