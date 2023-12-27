@@ -3,8 +3,8 @@
 I am Jacob from the Philippines! I recently graduated studying 👨🏻‍🎓 BS in Information Technology specializing in Web and Mobile Development student from University of Santo Tomas. My passion lies in 🌐 web development, right now I am focusing on developing my skills in front-end and back-end technologies. I also started as a 👨🏻‍💻 Junior Full Stack Developer just recently after I graduated. Outside of work I love to do physical activies such as going to ⛹🏻🏋� gym and playing basketball to have fun and unwind! �‍♂️
 
 <p align="center">
-  <img height=200 src="https://github-readme-stats-jacob.vercel.app/api?username=cisjacob&show_icons=true&theme=transparent&count_private=true" />
-  <img height=200 src="https://streak-stats.demolab.com?user=cisjacob&theme=transparent&exclude_days=Sun%2CSat&card_width=325&hide_current_streak=true" />
+  <img height=200 src="https://github-readme-stats-jacob.vercel.app/api?username=franc1sjacob&show_icons=true&theme=transparent&count_private=true" />
+  <img height=200 src="https://streak-stats.demolab.com?user=franc1sjacob&theme=transparent&exclude_days=Sun%2CSat&card_width=325&hide_current_streak=true" />
 </p>
 
 🌿 Right now I am currently learning:
@@ -30,7 +30,7 @@ I am Jacob from the Philippines! I recently graduated studying 👨🏻‍🎓 B
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
-![snake gif](https://github.com/cisjacob/cisjacob/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/franc1sjacob/franc1sjacob/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
