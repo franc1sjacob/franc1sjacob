@@ -13,7 +13,7 @@
 
 🌿 Right now I am currently learning and working with:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,graphql&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,graphql)](https://skillicons.dev)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
