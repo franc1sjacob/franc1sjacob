@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=franc1sjacob)
 ### Hi there! 👋🏻
 
 - 💻 **Junior Software Engineer** with a passion for Full-Stack development
@@ -21,7 +22,6 @@
 
 ![snake gif](https://github.com/franc1sjacob/franc1sjacob/blob/output/github-contribution-grid-snake-dark.svg)
 
-![](https://komarev.com/ghpvc/?username=franc1sjacob)
 
 
 
