@@ -1,16 +1,17 @@
 ### Hi there! 👋🏻
 
-- 🌐 Junior Software Engineer with a focus on Full-Stack
-- 🇵🇭 I'm based in the Philippines
-- 👨🏻‍🎓 Graduated from UST BS-IT Batch 2023
-- 🏋🏻 In my free time I often gym, and watch some anime
+- 💻 **Junior Software Engineer** with a passion for Full-Stack development
+- 🌏 Based in the **Philippines**
+- 🎓 **UST BS-IT 2023** graduate
+- 💪🏻 When I'm not coding, you'll find me at the gym or catching up on anime
+- 🤝🏻 Always open to **collaborating** on exciting projects!
 
 <p align="center">
   <img height=200 src="https://github-readme-stats-jacob.vercel.app/api?username=franc1sjacob&show_icons=true&theme=transparent&count_private=true" />
   <img height=200 src="https://streak-stats.demolab.com?user=franc1sjacob&theme=transparent&exclude_days=Sun%2CSat&card_width=325&hide_current_streak=true" />
 </p>
 
-🌿 Right now I am currently learning:
+🌿 Right now I am currently learning and working with:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
