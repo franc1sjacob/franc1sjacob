@@ -1,6 +1,9 @@
 ### Hi there! 👋🏻
 
-I am Jacob from the Philippines! I recently graduated studying 👨🏻‍🎓 BS in Information Technology specializing in Web and Mobile Development student from University of Santo Tomas. My passion lies in 🌐 web development, right now I am focusing on developing my skills in front-end and back-end technologies. I also started as a 👨🏻‍💻 Junior Full Stack Developer just recently after I graduated. Outside of work I love to do physical activies such as going to ⛹🏻🏋 gym and playing basketball to have fun and unwind! �‍♂️
+- 🌐 Junior Software Engineer with a focus on Full-Stack
+- 🇵🇭 I'm based in the Philippines
+- 👨🏻‍🎓 Graduated from UST BS-IT Batch 2023
+- 🏋🏻 In my free time I often gym, and watch some anime
 
 <p align="center">
   <img height=200 src="https://github-readme-stats-jacob.vercel.app/api?username=franc1sjacob&show_icons=true&theme=transparent&count_private=true" />
