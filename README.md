@@ -17,7 +17,7 @@
 
 🧑🏻‍💻 I have experience using:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,node,express,react,mongodb,mysql,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,react,mongodb,mysql,bootstrap,tailwind)](https://skillicons.dev)
 
 ![snake gif](https://github.com/franc1sjacob/franc1sjacob/blob/output/github-contribution-grid-snake-dark.svg)
 
