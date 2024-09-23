@@ -21,5 +21,7 @@
 
 ![snake gif](https://github.com/franc1sjacob/franc1sjacob/blob/output/github-contribution-grid-snake-dark.svg)
 
+![](https://komarev.com/ghpvc/?username=franc1sjacob)
+
 
 
