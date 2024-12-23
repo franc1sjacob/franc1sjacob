@@ -12,11 +12,11 @@
   <img height=200 src="https://streak-stats.demolab.com?user=franc1sjacob&theme=transparent&exclude_days=Sun%2CSat&card_width=325&hide_current_streak=true" />
 </p>
 
-- 🌱 Currently learning and working with:
+🌱 Currently learning and working with:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,graphql)](https://skillicons.dev)
 
-- 🧑🏻‍💻 I have experience using:
+🧑🏻‍💻 I have experience using:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,react,mongodb,mysql,bootstrap,tailwind)](https://skillicons.dev)
 
