@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=franc1sjacob)
 ### Hi there! 👋🏻
 
-- 💻 **Junior Software Engineer** with a focus on Full-Stack development
+- 💻 **Software Engineer** with a focus on Full-Stack development
 - 🌏 Based in the **Philippines**
 - 🎓 **UST BS-IT 2023** graduate
 - 💪🏻 When I'm not coding, you'll find me at the gym or catching up on anime
