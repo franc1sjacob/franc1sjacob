@@ -14,11 +14,11 @@
 
 🌱 Currently learning and working with:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,graphql,django,aws,docker,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,mongodb,graphql,django,aws,docker,terraform)](https://skillicons.dev)
 
 🧑🏻‍💻 I have experience using:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,react,mongodb,mysql,prisma,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,react,mysql,prisma,bootstrap,tailwind)](https://skillicons.dev)
 
 ![snake gif](https://github.com/franc1sjacob/franc1sjacob/blob/output/github-contribution-grid-snake-dark.svg)
 
