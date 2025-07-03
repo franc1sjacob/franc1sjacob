@@ -14,7 +14,7 @@
 
 🌱 Currently learning and working with:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,mongodb,graphql,django,aws,docker,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,nestjs,postgres,mongodb,graphql,django,aws,docker)](https://skillicons.dev)
 
 🧑🏻‍💻 I have experience using:
 
