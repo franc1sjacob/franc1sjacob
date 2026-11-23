@@ -1,0 +1,7 @@
+# Settings for the README cards, see https://github.com/pedrocatalao/github-cool-readme
+show: [summary, languages, streaks, weekly]
+
+look:
+  style: dotmatrix
+  color: amber
+  background: 0d0b07
