@@ -15,7 +15,9 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v7
-      - uses: pedrocatalao/github-cool-readme@v1
+      # Own fork, pinned to a reviewed commit (upstream v1), so the code that gets CARDS_TOKEN
+      # can only change when the fork is updated on purpose.
+      - uses: franc1sjacob/github-cool-readme@909e532bf5d2847b26d156b91c0d086e6e7781ae # v1
         with:
           token: ${{ secrets.CARDS_TOKEN }}
           output: ${{ runner.temp }}/cards
