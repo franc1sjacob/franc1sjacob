@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v5
 
       # Own action, pinned to a reviewed commit (v1.0.0), since it receives CARDS_TOKEN.
-      - uses: franc1sjacob/gh-night-city@aaae663415b91f2f405e12ec5ce637811667a029 # v1.0.0
+      - uses: franc1sjacob/gh-night-city@bad8e5a1351609863539236492a111121fabf5c4 # v1.0.1
         with:
           github-token: ${{ secrets.CARDS_TOKEN }}
           output-dir: ${{ runner.temp }}/night-city
