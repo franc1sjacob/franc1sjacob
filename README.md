@@ -33,6 +33,9 @@ TypeScript is where I'm most at home, but I'm happy to pick up whatever the prob
 </picture>
 </p>
 
-<img width="100%" src="assets/space-shooter.gif" alt="Contribution graph as a space shooter game" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franc1sjacob/franc1sjacob/night-city/night-city-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/franc1sjacob/franc1sjacob/night-city/night-city-light.svg" alt="Contribution graph as a lofi night city" />
+</picture>
 
 <p align="center"><sub>thanks for stopping by</sub></p>
